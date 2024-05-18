@@ -1,5 +1,3 @@
-<p>RM550889</p>
-
 <h2>App Calculadora e Conta Telefone</h2>
 
 <h2>Descrição do Projeto</h2>
